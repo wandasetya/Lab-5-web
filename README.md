@@ -5,7 +5,8 @@ Pemakaian method dalam objek![Screenshot (269)](https://user-images.githubuserco
 ![Screenshot (270)](https://user-images.githubusercontent.com/72745059/163675303-d80af43d-5460-46d5-8095-5c0ae98d61aa.png)
 Pemakaian Prompt![Screenshot (271)](https://user-images.githubusercontent.com/72745059/163675321-b5cf774c-86ec-485c-82a9-04e506fe048e.png)
 Pembuatan fungsi dan cara pemanggilannya![Screenshot (272)](https://user-images.githubusercontent.com/72745059/163675331-60d7aa55-714b-4b7a-a787-f7f5eca4b5f7.png)
-Operasi dasar aritmatika![Screenshot (273)](https://user-images.githubusercontent.com/72745059/163675344-f648aaaa-e32d-4d58-8328-37e1599b8194.
+Operasi dasar aritmatika 
+![Screenshot (273)](https://user-images.githubusercontent.com/72745059/163675605-cbd353bc-a9e1-46c3-8197-a10f6f4b2a14.png)
 ![Screenshot (274)](https://user-images.githubusercontent.com/72745059/163675386-c1ef1bd1-a430-4f31-8619-502d6ccba66f.png)
 Seleksi kondisi (if..else)![Screenshot (275)](https://user-images.githubusercontent.com/72745059/163675399-4ba4cdb8-282e-4b2d-842b-ea2d9af69b1e.png)
 Penggunaan operator switch untuk seleksi kondisi![Screenshot (276)](https://user-images.githubusercontent.com/72745059/163675421-a8b6887d-72c5-4421-9f32-e2914ee4e37d.png)
